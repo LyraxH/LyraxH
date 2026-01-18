@@ -1,6 +1,7 @@
 ## Lyraxh 👋
 
 oh loOK aT Me My GithUb Has A CooL REadME
+FUCK you
 
 half city half jungle
 
