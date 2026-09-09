@@ -5,6 +5,7 @@
 * I'm studying the bible and computer science.
 * With a particular interest in cyber security. (or video games)
 * Currently struggling with motivation (which is why you see nothing on my profile, but we'll get there)
+* If you're really interested; contact is [here](mailto:hina.privatize614@dralias.com)
 
 **Featured Projects**
 * **[ It's Morphin Time ]** - Unity/C# Game Jam Project
