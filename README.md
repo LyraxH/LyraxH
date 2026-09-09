@@ -1,4 +1,8 @@
-## Hi there 👋
+## Heya 👋
+
+I love Jesus, turtles, video games, tech, and ice hockey.
+I'm studying the bible and computer science.
+With a particular interest in cyber security. (or video games)
 
 <!--
 **LyraxH/LyraxH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
