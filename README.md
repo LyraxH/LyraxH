@@ -7,10 +7,10 @@
 * Currently struggling with motivation (which is why you see nothing on my profile, but we'll get there)
 
 **Featured Projects**
-**[It's Morphin Time]** - Unity/C# Game Jam Project
-**[Stim Megumi Sensei]** - Java SMT style turn based battle school project
-**[Last Chosen]** - JavaScript open world RPG school project
-**[Cuddly-Octo-Enigma]** - I use Arch BTW
+* **[It's Morphin Time]** - Unity/C# Game Jam Project
+* **[Stim Megumi Sensei]** - Java SMT style turn based battle school project
+* **[Last Chosen]** - JavaScript open world RPG school project
+* **[Cuddly-Octo-Enigma]** - I use Arch BTW
 
 <!--
 **LyraxH/LyraxH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
