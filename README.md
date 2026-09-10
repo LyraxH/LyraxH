@@ -1,4 +1,4 @@
-## Heya 👋
+## Heya, Im LyraxH or hina 👋
 
 **About Me**
 * I love Jesus, turtles, video games, tech, and ice hockey.
@@ -11,7 +11,7 @@
 * **[ It's Morphin Time ]** - Unity/C# Game Jam Project
 * **[ Stim Megumi Sensei ]** - Java SMT style turn based battle school project
 * **[ Last Chosen ]** - JavaScript open world RPG school project
-* **[ Cuddly-Octo-Enigma ]** - I use Arch BTW
+* **[ Cuddly-Octo-Enigma ]** - I use Arch BTW (Hyprland, Starship, etc)
 
 <!--
 **LyraxH/LyraxH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
