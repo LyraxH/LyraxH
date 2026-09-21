@@ -13,6 +13,11 @@
 * **[ Last Chosen ]** - JavaScript open world RPG school project
 * **[ Cuddly-Octo-Enigma ]** - I use Arch BTW (Hyprland, Starship, etc)
 
+
+**Future Projects/work ons**
+* **[ Biblely ]** - Flutter/C Bible Reader/Doom scroller
+* **[ Nhlly ]** - Python based NHL API puller
+
 <!--
 **LyraxH/LyraxH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
